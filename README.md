@@ -89,20 +89,22 @@ List is not empty.
 Results:
 Move the cursor to end and return true. Otherwise, returns false.
 
-14)void display () 
+## 14)void display () 
 Requirements: List is not empty.
 Results:
 Display the data items separated with space.
-15) void sort () Requirements: List is not empty.
+
+## 15) void sort () 
+Requirements: List is not empty.
 Results:
 Display the sorted data items separated with space.
-National University of Computer & Emerging Sciences (NUCES) Islamabad,
-Department of Computer Science
-16)
-Bool duplicate () Requirements: List is not empty.
+
+## 16)Bool duplicate () 
+Requirements: List is not empty.
 Results:
 If list contains duplicate return true. Otherwise, returns false.
-17)void splitList (int index)
+
+## 17)void splitList (int index)
 Requirements:
 List contains more than one element.
 Results:
